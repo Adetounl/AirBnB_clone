@@ -23,4 +23,4 @@ The console will perform the following tasks:
 
 All the classes are handled by the `Storage` engine in the `FileStorage` Class.
 ## 0x02 Environment
-![This is an image](https://ubuntu.com/assets/images/base-octocat.svg)
+![This is an image](https://ubuntu.com/)
