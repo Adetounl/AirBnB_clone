@@ -36,18 +36,18 @@ All the classes are handled by the `Storage` engine in the `FileStorage` Class.
  
 All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0 . Control version using Git 2.25.1.
 ## 0x03 Installation
-```
+```c
 git clone https://github.com/Adetounl/AirBnB_clone.git
 ```
 change to the `AirBnb` directory and run the command:
-```
+```python
 ./console.py
 ```
 ## Execution
 
 In interactive mode
 
-```c
+```shell
 $ ./console.py
 (hbnb) help
 
@@ -63,7 +63,7 @@ $
 
 in Non-interactive mode
 
-```c
+```shell
 $ echo "help" | ./console.py
 (hbnb)
 
