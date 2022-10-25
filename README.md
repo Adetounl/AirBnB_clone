@@ -114,3 +114,41 @@ python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'
 - Organization:for `models/base.py`, unit tests in: `tests/test_models/test_base.py`
 - Execution command: `python3 -m unittest discover tests`
 - or: `python3 -m unittest tests/test_models/test_base.py`
+
+## run test in interactive mode
+```python
+echo "python3 -m unittest discover tests" | bash
+```
+## run test in non-interactive mode
+
+To run the tests in non-interactive mode, and discover all the test, you can use the command:
+```python
+python3 -m unittest discover tests
+```
+
+## 0x05 Usage
+- Start the console in interactive mode:
+```shell
+$ ./console.py
+(hbnb)
+```
+- Use help to see the available commands:
+```shell
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  all  count  create  destroy  help  quit  show  update
+
+(hbnb)
+```
+- Quit the console:
+```shell
+(hbnb) quit
+$
+```
+
+## Commands
+> **The commands are displayed in the following format *Command / usage / example with output***
+- Create
+> ***Creates a new instance of a given class. The class' ID is printed and the instance is saved to the file file.json.*
