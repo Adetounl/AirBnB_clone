@@ -47,7 +47,7 @@ change to the `AirBnb` directory and run the command:
 
 In interactive mode
 
-```
+#ffffff`
 $ ./console.py
 (hbnb) help
 
@@ -59,9 +59,9 @@ EOF  help  quit
 (hbnb)
 (hbnb) quit
 $
-```
 
-in Non-interactive mode
+
+`in Non-interactive mode
 
 ```
 $ echo "help" | ./console.py
