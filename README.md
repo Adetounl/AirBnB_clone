@@ -47,7 +47,7 @@ change to the `AirBnb` directory and run the command:
 
 In interactive mode
 
-````#0d1117`
+```
 $ ./console.py
 (hbnb) help
 
