@@ -23,4 +23,6 @@ The console will perform the following tasks:
 
 All the classes are handled by the `Storage` engine in the `FileStorage` Class.
 ## 0x02 Environment
-![This is an image](![image](https://user-images.githubusercontent.com/105013858/197823812-3c0c2886-079a-446b-9674-781b94cce318.png)
+![image](https://user-images.githubusercontent.com/105013858/197824287-66bb478b-0b29-41c9-b4cd-d48dcb0122b3.png)
+![image](https://user-images.githubusercontent.com/105013858/197824138-566e6150-d52c-4efb-a1fb-34da0a0f9137.png)
+![image](https://user-images.githubusercontent.com/105013858/197823812-3c0c2886-079a-446b-9674-781b94cce318.png)
