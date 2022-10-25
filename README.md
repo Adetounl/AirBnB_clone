@@ -151,4 +151,4 @@ $
 ## Commands
 > **The commands are displayed in the following format *Command / usage / example with output***
 - Create
-> **C*reates a new instance of a given class. The class' ID is printed and the instance is saved to the file file.json.*
+> ***Creates a new instance of a given class. The class' ID is printed and the instance is saved to the file file.json.***
