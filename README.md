@@ -84,3 +84,33 @@ EOF  help  quit
 (hbnb)
 $
 ```
+## 0x04 Testing
+All the test are defined in the `tests` folder.
+
+## Documentation
+
+- Modules:
+```python
+python3 -c 'print(__import__("my_module").__doc__)'
+```
+- Classes:
+```python
+python3 -c 'print(__import__("my_module").MyClass.__doc__)'
+```
+- Functions (inside and outside a class):
+```python
+python3 -c 'print(__import__("my_module").my_function.__doc__)'
+```
+and
+```python
+python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'
+```
+
+## Python Unit Tests
+
+- unittest module
+- File extension `.py`
+- Files and folders star with `test_`
+- Organization:for `models/base.py`, unit tests in: `tests/test_models/test_base.py`
+- Execution command: `python3 -m unittest discover tests`
+- or: `python3 -m unittest tests/test_models/test_base.py`
