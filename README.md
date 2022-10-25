@@ -47,7 +47,7 @@ change to the `AirBnb` directory and run the command:
 
 In interactive mode
 
-```
+```c
 $ ./console.py
 (hbnb) help
 
@@ -63,7 +63,7 @@ $
 
 in Non-interactive mode
 
-```
+```c
 $ echo "help" | ./console.py
 (hbnb)
 
